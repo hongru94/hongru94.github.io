@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Hongru Du"
-  avatar           : "hongru_photo1.JPG"
+  avatar           : "profile1.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Baltimore, Maryland, US"
   employer         : "Johns Hopkins University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=rBkH7h0AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hongru94"
   google_plus      :
   keybase          :
   instagram        :
