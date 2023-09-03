@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am PhD student in the [Department of Civil and Systems Engineering](https://engineering.jhu.edu/case/) at [Johns Hopkins University](https://www.jhu.edu/), advised by Professor [Lauren Gardner](https://engineering.jhu.edu/faculty/lauren-gardner/).
+Hi, I am PhD student in the [Department of Civil and Systems Engineering](https://engineering.jhu.edu/case/) at [Johns Hopkins University](https://www.jhu.edu/), advised by Professor [Lauren Gardner](https://engineering.jhu.edu/faculty/lauren-gardner/). I am also a member of the Center for Systems Science and Engineering ([CSSE](https://systems.jhu.edu/)) and the Infectious Disease Dynamics Groups ([IDD](https://www.iddynamics.jhsph.edu/)).
 
 A data-driven personal website
 ======
