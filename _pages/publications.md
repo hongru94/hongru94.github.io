@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+# title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -15,4 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-You can find the full list of my publications at [Google Scholar](https://scholar.google.com/citations?user=rBkH7h0AAAAJ&hl=en).
+## Publications
+
+Game-theoretic modeling of pre-disaster relocation
+
+- You can find the full list of my publications at [Google Scholar](https://scholar.google.com/citations?user=rBkH7h0AAAAJ&hl=en).
