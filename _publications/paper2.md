@@ -1,7 +1,7 @@
 ---
 title: "An interactive web-based dashboard to track COVID-19 in real time"
 collection: publications
-permalink: /publication/paper2
+# permalink: /publication/paper2
 excerpt: 'This paper is about the JHU CSSE COVID-19 Dashboard.'
 date: 2020-05-01
 venue: 'The Lancet infectious diseases'
