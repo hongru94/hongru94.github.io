@@ -15,11 +15,19 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
-## Publications
+# Publications
 
-****
+## **Association between mobility patterns and COVID-19 transmission in the USA: a mathematical modelling study**\
+Hamada S Badr, **Hongru Du**, Maximilian Marshall, Ensheng Dong, Marietta M Squire, and Lauren M Gardner\
+The Lancet Infectious Disease, 2020\
+[Paper](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30553-3/fulltext)
 
-**Game-theoretic modeling of pre-disaster relocation**\
+## **An interactive web-based dashboard to track COVID-19 in real time**\
+Ensheng Dong, **Hongru Du**, and Lauren M Gardner\
+The Lancet Infectious Disease, 2020\
+[Paper](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext)
+
+## **Game-theoretic modeling of pre-disaster relocation**\
 Vicki Bier, Yuqun Zhou, and **Hongru Du**\
 The Engineering Economist, 2020\
 [Paper](https://www.tandfonline.com/doi/abs/10.1080/0013791X.2019.1677837)
