@@ -18,7 +18,7 @@ author_profile: true
 # Selected publications
 - You can find the full list of my publications at [Google Scholar](https://scholar.google.com/citations?user=rBkH7h0AAAAJ&hl=en).
 
-### **Association between vaccination rates and COVID-19 health outcomes in the United States: a population-level statistical analysis**
+**Association between vaccination rates and COVID-19 health outcomes in the United States: a population-level statistical analysis**\
 **Hongru Du**, Samee Saiyed, Lauren M Gardner\
 BMC Public Health, 2024\
 [Paper](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00047-6/fulltext)
