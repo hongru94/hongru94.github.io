@@ -17,6 +17,11 @@ author_profile: true
 
 # Selected publications
 
+## **Association between vaccination rates and COVID-19 health outcomes in the United States: a population-level statistical analysis**
+**Hongru Du**, Samee Saiyed, Lauren M Gardner\
+BMC Public Health, 2024\
+[Paper](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00047-6/fulltext)
+
 ## **Incorporating variant frequencies data into short-term forecasting for COVID-19 cases and deaths in the USA: a deep learning approach**
 **Hongru Du**, Ensheng Dong, Hamada S Badr, Mary E Petrone, Nathan D Grubaugh, Lauren M Gardner\
 Ebiomedicine, 2023\
