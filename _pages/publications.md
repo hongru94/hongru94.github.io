@@ -15,11 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
-# Publications
+# Selected publications
 
-## **The Johns Hopkins University Center for Systems Science and Engineering COVID-19 Dashboard: data collection process, challenges faced, and lessons learned**
-Ensheng Dong, Jeremy Ratcliff, Tamara D Goyea, Aaron Katz, Ryan Lau, Timothy K Ng, Beatrice Garcia, Evan Bolt, Sarah Prata, David Zhang, Reina C Murray, Mara R Blake, **Hongru Du**, Fardin Ganjkhanloo, Farzin Ahmadi, Jason Williams, Sayeed Choudhury, Lauren M Gardner\
-
+## **Incorporating variant frequencies data into short-term forecasting for COVID-19 cases and deaths in the USA: a deep learning approach**
+**Hongru Du**, Ensheng Dong, Hamada S Badr, Mary E Petrone, Nathan D Grubaugh, Lauren M Gardner\
+Ebiomedicine, 2023\
+[Paper](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00047-6/fulltext)
 
 ## **Association between mobility patterns and COVID-19 transmission in the USA: a mathematical modelling study**
 Hamada S Badr, **Hongru Du**, Maximilian Marshall, Ensheng Dong, Marietta M Squire, and Lauren M Gardner\
