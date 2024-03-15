@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %}-->
 
 # Selected publications
+- You can find the full list of my publications at [Google Scholar](https://scholar.google.com/citations?user=rBkH7h0AAAAJ&hl=en).
 
 ## **Association between vaccination rates and COVID-19 health outcomes in the United States: a population-level statistical analysis**
 **Hongru Du**, Samee Saiyed, Lauren M Gardner\
@@ -42,4 +43,3 @@ Vicki Bier, Yuqun Zhou, and **Hongru Du**\
 The Engineering Economist, 2020\
 [Paper](https://www.tandfonline.com/doi/abs/10.1080/0013791X.2019.1677837)
 
-- You can find the full list of my publications at [Google Scholar](https://scholar.google.com/citations?user=rBkH7h0AAAAJ&hl=en).
