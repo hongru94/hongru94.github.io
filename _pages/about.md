@@ -12,5 +12,10 @@ Hi, I am Ph.D. candidate in the [Department of Civil and Systems Engineering](ht
 
 Research Interest
 ======
-The spread of infectious diseases is not merely a biological phenomenon but a complex interplay of biological, social, and environmental factors. This complexity and the multidisciplinary nature of disease spread underscore the crucial need for engineers with domain knowledge in Public Health to approach these challenges from a system-level perspective. Recognizing this imperative, my research has evolved to bridge the fields of **Systems Engineering** and **Public Health**, where I use **computational methods** for **infectious disease modeling**. By developing customized data-driven models and innovative methodologies, I aim to uncover patterns of how diseases interact with human society, enhance the accuracy of disease risk forecasting, and inform decisions to build equitable and resilient public health systems. 
+The spread of infectious diseases is not merely a biological phenomenon but a complex interplay of biological, social, and environmental factors. This complexity and the multidisciplinary nature of disease spread underscore the crucial need for engineers with domain knowledge in Public Health to approach these challenges from a system-level perspective. Recognizing this imperative, my research has evolved to bridge the fields of **Systems Engineering** and **Public Health**, where I use **computational methods** for **infectious disease modeling**. By developing customized data-driven models and innovative methodologies, I aim to:
+<ul>
+  <li>uncover patterns of how diseases interact with human society</li>
+  <li>enhance the accuracy of disease risk forecasting</li>
+  <li>inform decisions to build equitable and resilient public health systems</li>
+</ul>
 
