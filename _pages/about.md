@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am Ph.D. candidate in the [Department of Civil and Systems Engineering](https://engineering.jhu.edu/case/) at [Johns Hopkins University](https://www.jhu.edu/), advised by Professor [Lauren Gardner](https://engineering.jhu.edu/faculty/lauren-gardner/). I am also a member of the Center for Systems Science and Engineering ([CSSE](https://systems.jhu.edu/)) and the Infectious Disease Dynamics Groups ([IDD](https://www.iddynamics.jhsph.edu/)). Before joining Johns Hopkins, I earned my Master's degree in Industrial Engineering from the [University of Wisconsin-Madison](https://www.wisc.edu/) and completed my undergraduate studies at the [University of Edinburgh](https://www.ed.ac.uk/) and [Tianjin University](https://www.tju.edu.cn/english/index.htm). 
 
-**I am currently active in the 2024-2025 academic job market, seeking a tenure-track faculty position.**
+<span style="color: red;">I am currently active in the 2024-2025 academic job market, seeking a tenure-track faculty position.</span>
 
 Research Interest
 ======
@@ -21,6 +21,6 @@ The spread of infectious diseases is not merely a biological phenomenon but a co
   <li>Modeling Human Behavior in Complex Systems</li>
 </ul>
 
-The figure below illustrates my research vision, **"Data to Decisions: Engineering Pathways to Equitable and Resilient Public Health Systems."**
+The figure below illustrates my research vision, **"From Data to Decisions: Engineering Pathways to Equitable and Resilient Public Health Systems."**
 
 ![Profile Picture](images/vision.png)
