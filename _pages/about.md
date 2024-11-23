@@ -21,3 +21,4 @@ The spread of infectious diseases is not merely a biological phenomenon but a co
   <li>Modeling Human Behavior in Complex Systems</li>
 </ul>
 
+![Profile Picture](images/foo-bar-identity.jpg)
