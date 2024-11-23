@@ -1,6 +1,6 @@
 ---
 title: "Modeling the interaciton between human behavior and infectious disease dynamic"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Collaborating with economists and epidemiologists, we developed the Feedback-Informed Epidemiological Model (FIEM), a framework that integrates human behavior with disease dynamics. 1<br/><img src='/images/IHBEM.png'>"
 collection: portfolio
 ---
 
