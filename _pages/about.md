@@ -21,4 +21,6 @@ The spread of infectious diseases is not merely a biological phenomenon but a co
   <li>Modeling Human Behavior in Complex Systems</li>
 </ul>
 
+The figure below illustrates my research vision, **"Data to Decisions: Engineering Pathways to Equitable and Resilient Public Health Systems."**
+
 ![Profile Picture](images/vision.png)
