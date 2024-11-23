@@ -1,6 +1,6 @@
 ---
 title: "Large-scale multimodal machine learning for public health"
-excerpt: "Collaborating with economists and epidemiologists, we developed the Feedback-Informed Epidemiological Model (FIEM), a framework that integrates human behavior with disease dynamics. <br/><img src='/images/Figure_1.png'>"
+excerpt: "Leveraging underutilized disease-related data streams with emerging technologies for infectious disease forecasting. <br/><img src='/images/Figure_1.png'>"
 collection: portfolio
 ---
 
