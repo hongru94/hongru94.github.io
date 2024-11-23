@@ -1,6 +1,6 @@
 ---
-title: "Modeling the interaciton between human behavior and infectious disease dynamic"
-excerpt: "Collaborating with economists and epidemiologists, we developed the Feedback-Informed Epidemiological Model (FIEM), a framework that integrates human behavior with disease dynamics. <br/><img src='/images/IHBEM.png'>"
+title: "Large-scale multimodal machine learning for public health"
+excerpt: "Collaborating with economists and epidemiologists, we developed the Feedback-Informed Epidemiological Model (FIEM), a framework that integrates human behavior with disease dynamics. <br/><img src='/images/Figure_1.png'>"
 collection: portfolio
 ---
 
