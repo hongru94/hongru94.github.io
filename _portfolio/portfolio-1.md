@@ -4,4 +4,6 @@ excerpt: "Collaborating with economists and epidemiologists, we developed the Fe
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This framework integrates a risk-stratified compartmental model of disease spread and a discrete choice dynamic utility optimization model for individual decision-making. Individuals weigh the costs and benefits of behavioral choices and future payoffs based on their unique characteristics. Their decisions (obtained by solving Bellman equations) influence individuals' risks of infection, affect population-level disease dynamics, and inform future behaviors. This feedback loop allows us to project disease outcomes while accounting for the endogenous behavioral responses and tradeoffs between health and economic well-being.
+
+<embed src="images/FIEM.pdf" width="600" height="400" type="application/pdf">
