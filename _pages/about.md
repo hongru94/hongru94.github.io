@@ -29,4 +29,6 @@ Miscellaneous
 ======
 I have a Maltese named KnowKnow.
 
-![Knowknow Picture](images/knowknow.jpg)
+<figure style="float: left;">
+    <img src='/images/knowknow.jpg' style='width:50%;'>
+</figure>
