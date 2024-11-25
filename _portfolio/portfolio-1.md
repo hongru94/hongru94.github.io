@@ -9,3 +9,9 @@ This framework integrates a risk-stratified compartmental model of disease sprea
 <figure style="float: left;">
     <img src='/images/FIEM.png' style='width:100%;'>
 </figure>
+
+This framework allows policymakers to evaluate the health and economic impacts of interventions within a unified model, facilitating informed decision-making by providing a more comprehensive assessment of policy trade-offs. 
+
+<figure style="float: left;">
+    <img src='/images/policy.png' style='width:100%;'>
+</figure>
