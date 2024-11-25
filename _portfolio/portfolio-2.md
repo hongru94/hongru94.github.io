@@ -3,6 +3,7 @@ title: "Large-scale multimodal machine learning for public health"
 excerpt: "Leveraging underutilized disease-related data streams with emerging technologies for infectious disease forecasting. <br/><img src='/images/Figure_1.png'>"
 collection: portfolio
 ---
+[Paper](https://arxiv.org/pdf/2404.06962)
 
 The COVID-19 pandemic underscored the critical need for robust infectious disease modeling to inform public health decision-making. However, existing models often struggle to capture the complex interplay of factors like viral evolution, policy interventions, and human behavior. To address these challenges, my research focuses on developing advanced machine learning frameworks that integrate large-scale multimodal data for more accurate and actionable public health responses. 
 
