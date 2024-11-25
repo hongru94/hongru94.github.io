@@ -28,7 +28,6 @@ The figure below illustrates my research vision, **"From Data to Decisions: Engi
 Miscellaneous
 ======
 I have a Maltese named KnowKnow.
-
 <figure style="float: left;">
     <img src='/images/knowknow.jpg' style='width:50%;'>
 </figure>
