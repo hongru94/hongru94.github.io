@@ -27,3 +27,6 @@ The figure below illustrates my research vision, **"From Data to Decisions: Engi
 
 Miscellaneous
 ======
+I have a Maltese named KnowKnow.
+
+![Knowknow Picture](images/knowknow.jpg)
