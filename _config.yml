@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hongru Du"
   avatar           : "profile2.jpg"
-  bio              : "Ph.D. Candidate at Johns Hopkins University"
-  location         : "Baltimore, Maryland, US"
-  employer         : "Johns Hopkins University"
+  bio              : "Assistant Professor at University of Virginia"
+  location         : "Charlottesville, Virginia, US"
+  employer         : "University of Virginia"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=rBkH7h0AAAAJ&hl=en"
-  email            : "hdu9@jhu.edu"
+  email            : "qdc4kc@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
